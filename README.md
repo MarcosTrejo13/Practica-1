@@ -1,2 +1,2 @@
 # Practica-1
-Practica 1 Fundamentos de Programacion
+Practica 1_pdf Fundamentos de Programacion
